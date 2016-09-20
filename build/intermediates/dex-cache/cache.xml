@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/valentin/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.4/6404f77b92ec723cc132e825afe85a07da85ee6/systembartint-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="06404f77b92ec723cc132e825afe85a07da85ee6">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/systembartint-1.0.4_614211e43d7936a50fbfe8d83f70863e698cf434/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b8f9201bfc2c42e01c77cf53c07f8f3ebb649593/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_34d12d0ba56054cb889b4a864f30fbec6099e584/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e56bd7a70e278a8706fda05dccd50f9bd3112ee">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f4e8df005e05d2cf4bc258fce8b9d428210455e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_4f59d7752706ad11c6ed07fd6fe72f04f534fa6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/Android/SDK/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_c81f251dee7e6eceb4e392ef5fafa3a17d83a8b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_a96550a8974393a0666e8ce005f4f55c0ea58f50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f6bb79277d15f049ba130f1bdcce1b5eac89a52f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_6f07233e146115d42914e60ef00a9b684fa6e271/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d47fc7c2946367c43c3d2cb80b8a7b9c5779b8e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_566d1924caeec04c6fb3cd82a678eb797aa8dae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_2c4988b3840d54eb90ae4e740e07fb663d1542b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_ae13dcf5140f845aaccb4aca5e9c4f05041ef8b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4773c82fac930b86367a940ec593c9c407d4a84f">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_821ad27aa328ca882aa571541737aa8ec15f3067/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4ceb8939461c31d648637ca90ad136288ede696e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_0933a95a6da94ae836d6839fe45d1af05cbbb43f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c080e001e08b37f2d25dcd1b28e8219459b0df5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_d12c04773b45b52984e1b3fd038c904b17e88fd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_d20da1c6ded15b159ebb0e66c17b70be01b2b3ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_b33bf8bc2ed0b3f126461dcd49da9c533bb95fa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/valentin/AndroidStudioProjects/Homesick/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_1dc5b236e0804c1b06273dad3f5d62167ff6c024/classes.dex" />
+    </item>
+
+</items>

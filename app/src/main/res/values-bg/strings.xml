@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="no">Не</string>
+    <string name="yes">Да</string>
+    <string name="SnackbarText">Затвори приложението</string>
+    <string name="Nope">Не? Смени езика на телефона на английски</string>
+    <string name="bad">"Да, хм... лошо... "</string>
+    <string name="bye">Чао</string>
+    <string name="change_language">Смяна на езика</string>
+    <string name="Cancelable">Отменяем</string>
+    <string name="Dismiss">Затвори</string>
+    <string name="skip">Пропусни</string>
+    <string name="next">Следващ</string>
+    <string name="NonCancelable">Неотменяем</string>
+    <string name="ToastText">Това се казва Toast! :)</string>
+    <string name="SnackBarText">Това се казва SnackBar! :)</string>
+    <string name="start">Разбрах</string>
+    <string name="choose_type">Избери тип</string>
+    <string name="close">Затвори</string>
+    <string name="custom">Цветен</string>
+    <string name="normal">Обикновен</string>
+</resources>
